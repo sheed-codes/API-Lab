@@ -1,0 +1,6 @@
+Reflection 
+In this assignment, I learned how to work with APIs in Python by making real requests to an external service and handling the responses. Before this, I had a general idea of what an API was, but actually using one helped me understand how data is sent and received between a client and a server.
+One of the main things I learned was how to structure HTTP requests using Python and the requests library. I also learned how to read and parse JSON data, which is the format most APIs use to return information. Being able to extract specific fields from the response and print them in a readable way was an important part of the process.
+Another key takeaway was handling errors. I had to check the response status code before accessing the data to make sure the request was successful. This helped me understand how APIs communicate issues like invalid requests or authentication problems.
+I also learned the importance of keeping API keys secure by storing them in a .env file instead of hardcoding them into the script. This is something I had not done before, but now I understand why it is a best practice.
+Overall, this assignment gave me hands-on experience with APIs and helped me build confidence in working with real-world data sources. I can see how this skill will be useful in future projects, especially in areas like data analysis and machine learning.
